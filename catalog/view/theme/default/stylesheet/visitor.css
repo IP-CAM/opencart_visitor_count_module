@@ -1,0 +1,38 @@
+#visitor {
+	text-align: center;
+	font-size:23px;
+}
+
+#visitor .num {
+	background-color: #000000;
+	color: #e24e1d;
+} 
+
+#visitors {/*for "visitor" text*/
+	background-color:#000000;
+	font-size:26px;
+	color:#ffffff;
+	font-family:serif;
+	width: 39%;
+	margin: 0 auto;
+} 
+
+#green{
+	background-color: #000000;
+	color:#80bf48;
+}
+
+#mid {
+	background-color: #000000;
+	color:#FA920D;
+} 
+
+#blue{
+	background-color:#000000;
+	color:#46BBA4;
+} 
+
+.half-2 {
+	background-color: #000000;
+	color:#C20707;
+}
